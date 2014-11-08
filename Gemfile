@@ -46,3 +46,4 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'foundation-rails'
+gem 'rails_serve_static_assets'
