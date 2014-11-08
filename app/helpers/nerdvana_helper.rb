@@ -1,0 +1,2 @@
+module NerdvanaHelper
+end
