@@ -2,7 +2,7 @@
 	<div class="large-1 columns"></div>
 	<div class="large-10 columns">
 		<div class="panel">
-			<h1>Nerdvana / Things / Sofa / Lef</h1>
+			<h1>Nerdvana / Things / Sofa <%= "/ #{@arm.titleize}" if @arm %></h1>
 			<p>Welcome to the sofa!</p>
 
 			<% if @arm %>
