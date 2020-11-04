@@ -45,7 +45,7 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'foundation-rails', '~> 6.4.0'
+gem 'foundation-rails'
 
 gem 'rails_serve_static_assets'
 gem 'rails_12factor'
